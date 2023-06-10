@@ -1,0 +1,9 @@
+=dev-qt/qtbase-6.5.0-r3
+=dev-qt/qtbase-6.4.0-r3
+=dev-qt/qtwayland-6.4.0
+=dev-qt/qtwayland-6.5.0
+=dev-qt/qtdeclarative-6.4.0
+=dev-qt/qtdeclarative-6.5.0
+=dev-qt/qtshadertools-6.4.0
+=dev-qt/qtshadertools-6.5.0
+

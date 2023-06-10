@@ -1,0 +1,27 @@
+x11-drivers/nvidia-drivers driver tools uvn
+media-video/pipewire pipewire-alsa sound-server
+gui-libs/wlroots hwdata tinywl
+sys-auth/seatd server
+dev-qt/qtgui egl eglfs dbus jpeg libinput png X
+media-libs/mesa gles2
+media-libs/libsdl2 X video opengl gles2
+x11-libs/cairo glib X
+sys-auth/polkit daemon
+gui-wm/hyprland -system-wlroots
+dev-qt/qtbase opengl egl eglfs gles2-only gui dbus libinput network widgets sql xml ssl sqlite
+dev-qt/qtdeclarative opengl
+x11-libs/pango X
+x11-libs/cairo glib X
+x11-libs/libxkbcommon X
+media-libs/libsdl2 sound
+media-libs/libva opengl
+media-libs/libsndfile minimal
+x11-libs/cairo X aqua
+dev-cpp/cairomm X
+dev-qt/qtbase opengl egl eglfs gles2-only
+dev-qt/qtdeclarative opengl
+gui-libs/xdg-desktop-portal-hyprland select-window select-region
+sys-apps/xdg-desktop-portal screencast
+# required by x11-misc/xdg-utils-1.1.3_p20210805-r1::gentoo
+# required by xdg-utils (argument)
+>=app-text/xmlto-0.0.28-r10 text
